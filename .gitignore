@@ -36,6 +36,12 @@
 *.x86_64
 *.hex
 
+# Server files
+*storage.ide*
+*db.lock
+*.suo
+*.dtbcache
+
 # Debug files
 *.dSYM/
 *.su
