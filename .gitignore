@@ -37,7 +37,10 @@
 *.hex
 
 # Server files
-*.storage.ide*
+*storage.ide*
+*db.lock
+*.suo
+*.dtbcache
 
 # Debug files
 *.dSYM/
