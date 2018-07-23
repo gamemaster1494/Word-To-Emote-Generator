@@ -1,0 +1,12 @@
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\bin\Debug\EmoteWordGenerator.exe.config
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\bin\Debug\EmoteWordGenerator.exe
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\bin\Debug\EmoteWordGenerator.pdb
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.csprojAssemblyReference.cache
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.frmMain.resources
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.Properties.Resources.resources
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.csproj.GenerateResource.cache
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.csproj.CoreCompileInputs.cache
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.exe
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.pdb
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.frmEditEmoji.resources
+C:\Users\jmd0312\source\repos\EmoteWordGenerator\EmoteWordGenerator\obj\Debug\EmoteWordGenerator.frmAddEmoji.resources
